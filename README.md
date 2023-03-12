@@ -40,6 +40,7 @@ Bitmiş projeniz aşağıdaki gereksinimlerin tümünü içermelidir (her dosyan
 
 - [ ] Bilmeceler tablosu yaratın:
      - [ ] migration dosyası 
+     
      - [ ] ve var olan bilmeler için de seed dosyası oluşturun
      - [ ] bilmeceleri dosyadan değil de veritabanında okunmasını sağlayın.
 - [ ] roles tablosu yaratın:
